@@ -1,0 +1,12 @@
+.main {
+    margin-top: 25px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.todos {
+    width: 10%;
+    overflow:hidden;
+}
